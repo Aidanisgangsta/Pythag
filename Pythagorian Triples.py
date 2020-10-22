@@ -4,7 +4,7 @@ all =[]
 
 incriment = 100
 cap = 100
-7
+
 with open ("triples.txt", "r+") as txtfile:
     txtfile.truncate(0)
     while True:
